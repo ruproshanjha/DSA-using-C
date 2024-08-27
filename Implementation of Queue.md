@@ -240,5 +240,3 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 
 Created by Rup Roshan Jha. Feel free to reach out with any questions or feedback!
 ```
-
-You can customize the `README.md` further by adding additional sections such as "Challenges Faced," "Future Improvements," or "References," depending on your needs.
