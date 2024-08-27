@@ -67,6 +67,7 @@ The program uses an array to implement a queue with the following operations:
 2. **Run the Program**:
    ```bash
    ./queue
+   ```
    or if you are on Windows:
    ```bash
    queue.exe
