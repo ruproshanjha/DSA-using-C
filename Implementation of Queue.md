@@ -71,3 +71,4 @@ The program uses an array to implement a queue with the following operations:
    or if you are on Windows:
    ```bash
    queue.exe
+## Code Snippet
