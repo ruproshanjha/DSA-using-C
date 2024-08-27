@@ -230,7 +230,7 @@ Press any key to continue...
 
 ## License
 
-This code is released under the MIT License. Feel free to use, modify, and distribute it as you see fit.
+Free to use, No license required.
 
 ## Contributions
 
@@ -238,7 +238,7 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 
 ## Author
 
-Created by [Your Name]. Feel free to reach out with any questions or feedback!
+Created by Rup Roshan Jha. Feel free to reach out with any questions or feedback!
 ```
 
 You can customize the `README.md` further by adding additional sections such as "Challenges Faced," "Future Improvements," or "References," depending on your needs.
