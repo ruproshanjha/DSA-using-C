@@ -239,4 +239,3 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 ## Author
 
 Created by Rup Roshan Jha. Feel free to reach out with any questions or feedback!
-```
