@@ -64,3 +64,9 @@ The program uses an array to implement a queue with the following operations:
    Use a C compiler like `gcc` to compile the program.
    ```bash
    gcc queue.c -o queue
+2. **Run the Program**:
+   ```bash
+   ./queue
+   or if you are on Windows:
+   ```bash
+   queue.exe
